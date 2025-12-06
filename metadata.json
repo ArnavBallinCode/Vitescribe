@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of VitalScribe",
+  "description": "An AI-powered medical companion that analyzes lab reports, prescriptions, and health documents to provide plain-English explanations, safety checks, and actionable wellness insights using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
