@@ -4,13 +4,12 @@ Lightweight web app for ingesting clinical documents, extracting key metrics, an
 
 **Quick overview:** upload clinical documents from `assets/` or your local machine, the app extracts vitals and metrics and presents them in a dashboard and chat interface.
 
-## Assets
 
-The project includes a few example assets in the `assets/` folder:
+Demo
 
-- `Screen Recording 2025-12-06 at 12.05.42 PM.mov` — demo recording of the app.
-- `Screenshot 2025-12-06 at 12.07.14 PM.png` — example UI screenshot.
-- `health centre (1).pdf` — example clinical document used in tests.
+- `assets/Screen Recording 2025-12-06 at 12.05.42 PM.mov`
+- `assets/Screenshot 2025-12-06 at 12.07.14 PM.png`
+- `assets/health centre (1).pdf`
 
 ## Test Document
 
