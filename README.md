@@ -16,11 +16,6 @@ Lightweight web app for ingesting clinical documents, extracting key metrics, an
 [Sample Clinical PDF](./assets/health%20centre%20(1).pdf)
 
 
-## Test Document
-
-- The document referenced in tests was reported as `halth_centre` by you. The actual file in `assets/` is named `health centre (1).pdf`.
-- If you want the canonical test filename to be `halth_centre.pdf` (or `health_centre.pdf`), tell me which exact spelling to use and I will rename it in `assets/` and update the tests.
-
 ## Run Locally
 
 **Prerequisites:** `Node.js` (LTS recommended)
